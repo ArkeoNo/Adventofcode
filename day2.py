@@ -13,4 +13,4 @@ def count_safe_reports(file_path):
 
 file_path = 'input/2-2.txt'
 safe_reports = count_safe_reports(file_path)
-print(f"Number of safe reports: {safe_reports}")
+print(f"Nombre Safe: {safe_reports}")
